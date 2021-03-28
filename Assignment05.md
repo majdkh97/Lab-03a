@@ -19,3 +19,5 @@ Loops are used in JavaScript to perform repeated tasks based on a condition. Con
 
 **All for loops can be written as while loops, and vice-versa. Just use whichever loop seems more appropriate to the task at hand.
 In general, you should use a for loop when you know how many times the loop should run. If you want the loop to break based on a condition other than the number of times it runs, you should use a while loop.**
+
+[Go Back](README.md)
